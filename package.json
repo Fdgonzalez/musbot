@@ -1,0 +1,19 @@
+{
+  "name": "youtube-dl-node-test",
+  "version": "1.0.0",
+  "description": "Stream youtube music",
+  "main": "bot.js",
+  "author": "FacuFacundo",
+  "dependencies": {
+    "bufferutil": "^4.0.0",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.3.2",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "ffmpeg-binaries": "^4.0.0",
+    "node-opus": "^0.3.0",
+    "sodium": "^2.0.3",
+    "youtube-dl": "^1.12.2",
+    "youtube-search": "^1.1.1",
+    "ytdl-core": "^0.21.1"
+  }
+}
