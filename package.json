@@ -6,7 +6,6 @@
   "author": "FacuFacundo",
   "dependencies": {
     "bufferutil": "^4.0.0",
-    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
     "discord.js": "^11.3.2",
     "erlpack": "github:hammerandchisel/erlpack",
     "ffmpeg-binaries": "^4.0.0",
